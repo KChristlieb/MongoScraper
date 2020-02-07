@@ -1,0 +1,27 @@
+{
+  "name": "mongoscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KChristlieb/MongoScraper.git"
+  },
+  "author": "Kade Christlieb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KChristlieb/MongoScraper/issues"
+  },
+  "homepage": "https://github.com/KChristlieb/MongoScraper#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "espress": "0.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.8.11"
+  }
+}
